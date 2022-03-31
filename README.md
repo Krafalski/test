@@ -1,3 +1,3 @@
 # README.md
 
-Wes was here.
+Wes and Karolin were here.
